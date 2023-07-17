@@ -2,3 +2,9 @@
 __pycache__/
 tables_photometric/
 iDR4_pointings.csv
+cluster-mock-R/
+Rplots.pdf
+N_bkg_c.npy
+N_tot_c.npy
+Pmem_Hydra.npy
+Pmem_specz.npy
